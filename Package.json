@@ -1,0 +1,5 @@
+{
+  "name": "strava-relay",
+  "private": true,
+  "type": "module"
+}
